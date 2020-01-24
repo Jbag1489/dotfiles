@@ -35,3 +35,9 @@
 * Get window class name of application using xprop package
 * Disable PC speaker (BEEP) - Blacklisting the pcspkr module will prevent udev from loading it at boot:
 > echo "blacklist pcspkr" > /etc/modprobe.d/nobeep.conf
+
+
+## Links
+* https://www.reddit.com/r/unixporn/comments/erqvix/i3gaps_took_me_3_days_to_make_my_first_rice_d/
+* Wallpaper: https://unsplash.com/photos/n_Jb_d8O43Q
+* Lockscreen Wallpaper: https://unsplash.com/photos/NQL7uXV2MOE
